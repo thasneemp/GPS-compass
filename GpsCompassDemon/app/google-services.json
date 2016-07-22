@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377114088059",
+    "firebase_url": "https://gpscompass-c32e2.firebaseio.com",
+    "project_id": "gpscompass-c32e2",
+    "storage_bucket": "gpscompass-c32e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377114088059:android:43117ee35efad15c",
+        "android_client_info": {
+          "package_name": "test.launcher.mummu.gpscompassdemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377114088059-8nsmq8qkhd7721kdq5js9gfgguljfuj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.launcher.mummu.gpscompassdemon",
+            "certificate_hash": "6DF4E2A2FB857DEA304F40794695655A55497D19"
+          }
+        },
+        {
+          "client_id": "377114088059-b8ps7gvpkuplchh80qp6na25nqj5g0om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0gaANuGhDiatoo6rMbGrXQTyJyX5fe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377114088059-b8ps7gvpkuplchh80qp6na25nqj5g0om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
